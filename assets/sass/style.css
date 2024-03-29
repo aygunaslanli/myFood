@@ -1,0 +1,91 @@
+.card-body {
+  height: 200px;
+}
+.card-body h3 {
+  font-size: 24px;
+  font-family: karma;
+  font-weight: 400;
+  text-align: center;
+}
+.card-body p {
+  font-size: 17px;
+  font-family: karma;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.logo .mail h3 {
+  font-family: karma;
+}
+
+.numbers .n1 {
+  width: 40px;
+  padding: 10px;
+  height: 40px;
+  color: black;
+}
+
+.numbers a:hover {
+  background-color: black;
+  font-weight: bolder;
+  color: white;
+}
+
+.hero2 {
+  height: auto;
+}
+.hero2 h3 {
+  align-items: center;
+  text-align: center;
+  margin: 50px;
+  font-family: karma;
+  font-size: 24px;
+  font-weight: 400;
+}
+.hero2 img {
+  justify-content: center;
+  align-items: center;
+  margin-left: 350px;
+}
+.hero2 h4 {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 30px;
+  font-family: karma;
+  font-size: 24px;
+  font-weight: 400;
+}
+.hero2 h6 {
+  text-align: center;
+  margin: 20px;
+  font-family: karma;
+  font-size: 20px;
+  font-weight: 400;
+}
+.hero2 p {
+  text-align: center;
+  margin: 20px 100px;
+  font-family: karma;
+  font-size: 17px;
+  line-height: 1.5;
+}
+
+.container {
+  width: 100%;
+}
+.container .row {
+  width: 100%;
+  margin-left: 100px;
+}
+.container .row h3 {
+  font-family: karma;
+}
+.container .row p {
+  text-align: start;
+  font-family: karma;
+  font-size: 18px;
+}
+.container .row a {
+  color: black;
+}/*# sourceMappingURL=style.css.map */
